@@ -3,8 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6495ED&size=50&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+👨🏻Achraf+BRIKI;I'm+22+years+old;I'm+from+TUNISIA;I'm+student+systems+Development👨🏻‍💻;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <br><br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BRIKIAchraf&bg_color=bec8ef&color=1476f5&line=66c297&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<br>
 <img align ="right"  alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 # 💫 About Me:
@@ -15,7 +13,8 @@
 - 🤝  I’m looking for help with learning  AI and participate in the projects and conférences
 - 👯 I’m looking to collaborate on developping my startup **ALHakim**
 - ⚡Did you know that the ancient Greek philosopher Diogenes of Sinope was known for his eccentric lifestyle and unconventional behavior?<br> He was often seen wandering the streets during the day carrying a lamp.<br> When asked why he carried a lamp in broad daylight, he would respond,<br>"I am looking for an honest man." This witty and humorous response highlighted Diogenes' skepticism and<br> his belief that true honesty and virtue were rare qualities to find in people.<br> His peculiar actions and philosophical teachings made him a memorable<br> figure in the history of philosophy, and he is often regarded as one of the founders of Cynicism,<br> a philosophical school that emphasized simplicity and self-sufficiency. 
-
+<br>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BRIKIAchraf&bg_color=bec8ef&color=1476f5&line=66c297&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
