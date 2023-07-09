@@ -20,8 +20,8 @@
 <a href="https://www.linkedin.com/in/ashraf-breki-80b652234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-youssef-chlendi-1b5624183/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100006719470046" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="youssef.chlendi" height="30" width="40" /></a>
 </p>
-<br><br>
-###🏆 GitHub Trophies:
+
+# 🏆 GitHub Trophies:
 
 ![](https://github-profile-trophy.vercel.app/?username=BRIKIAchraf&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
