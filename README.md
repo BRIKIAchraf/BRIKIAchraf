@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning AI , Android studio<br>
 - 💬 Ask me about anything cloud , web related<br>
-- 📫 How to reach me: **Email : Ashraf_breki@yahoo.com**<br><br>
+- 📫 How to reach me: **Email : Ashraf_breki@yahoo.com**<br>
 - 🤝  I’m looking for help with learning  AI and participate in the projects and conférences
 - 👯 I’m looking to collaborate on developping my startup **ALHakim**
 - ⚡Did you know that the ancient Greek philosopher Diogenes of Sinope was known for his eccentric lifestyle and unconventional behavior?<br> He was often seen wandering the streets during the day carrying a lamp.<br> When asked why he carried a lamp in broad daylight, he would respond,<br>"I am looking for an honest man." This witty and humorous response highlighted Diogenes' skepticism and<br> his belief that true honesty and virtue were rare qualities to find in people.<br> His peculiar actions and philosophical teachings made him a memorable<br> figure in the history of philosophy, and he is often regarded as one of the founders of Cynicism,<br> a philosophical school that emphasized simplicity and self-sufficiency.<br><br>
