@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-<img align ="Center"  alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align ="right"  alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 - 🌱 I’m currently learning AI , Android studio<br>
 - 💬 Ask me about anything cloud , web related<br>
