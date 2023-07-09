@@ -2,8 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6495ED&size=50&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+👨🏻Achraf+BRIKI;I'm+22+years+old;I'm+from+TUNISIA;I'm+student+systems+Development👨🏻‍💻;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <br><br>
+<img align="Center" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" style="display: block; margin-left: auto; margin-right: auto;">
 
-<img align ="Center"  alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 # 💫 About Me:
 
@@ -30,6 +30,7 @@
 <div align="center" style="display:block;">
     <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
 </div>
+img align ="Center"  alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <br><br>
 
 
