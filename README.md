@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:7C3AED&height=180&section=header&text=Achraf%20BRIKI&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Data%20Engineer%20%7C%20Cloud%20Data%20%7C%20MLOps%20%26%20AI&descAlignY=62&descSize=18" alt="Achraf BRIKI banner" />
+<img src="https://raw.githubusercontent.com/BRIKIAchraf/BRIKIAchraf/main/assets/profile-banner.svg" alt="Achraf BRIKI — Data Engineer banner" />
 
 ### Data Engineer · Cloud & Data Infrastructure · MLOps & AI
 
@@ -86,7 +86,13 @@ AI interaction prototype combining gesture recognition, speech commands, facial-
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,postgres,kafka,spark,databricks,docker,aws,terraform,git,linux" alt="Python PostgreSQL Kafka Spark Databricks Docker AWS Terraform Git Linux" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS">
+<img src="https://img.shields.io/badge/Databricks-EA2B1F?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks">
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark">
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
 
 </div>
 
@@ -161,7 +167,7 @@ AI interaction prototype combining gesture recognition, speech commands, facial-
 
 🌍 [Portfolio](https://achrafbriki.com) · 💼 [LinkedIn](https://www.linkedin.com/in/achrafbriki/) · 📧 [a.briki@campus.uniurb.it](mailto:a.briki@campus.uniurb.it)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:1D4ED8,100:0F172A&height=100&section=footer" alt="Footer" />
+<sub>Building reliable data systems, one pipeline at a time.</sub>
 
 </div>
 
