@@ -2,19 +2,22 @@
 
 # 👋 Hi, I'm Achraf BRIKI
 
-### Data Engineer | Cloud & Data Infrastructure | Streaming & Lakehouse
+### Data Engineer | Cloud & Data Infrastructure | MLOps & AI
+
+**3+ years of experience · Based in Italy**
 
 <p>
   <a href="https://achrafbriki.com"><img src="https://img.shields.io/badge/Portfolio-achrafbriki.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/achrafbriki/"><img src="https://img.shields.io/badge/LinkedIn-Achraf%20BRIKI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:brekiashraf@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:a.briki@campus.uniurb.it"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/Data%20Engineering-0F766E?style=flat-square" alt="Data Engineering">
   <img src="https://img.shields.io/badge/Cloud%20%26%20Infrastructure-1D4ED8?style=flat-square" alt="Cloud and Infrastructure">
-  <img src="https://img.shields.io/badge/Streaming%20%26%20CDC-7C3AED?style=flat-square" alt="Streaming and CDC">
-  <img src="https://img.shields.io/badge/Lakehouse-F59E0B?style=flat-square" alt="Lakehouse">
+  <img src="https://img.shields.io/badge/Cloud%20Data-2563EB?style=flat-square" alt="Cloud Data">
+  <img src="https://img.shields.io/badge/MLOps%20%26%20AI-7C3AED?style=flat-square" alt="MLOps and AI">
+  <img src="https://img.shields.io/badge/ETL%20%2F%20ELT-0F766E?style=flat-square" alt="ETL and ELT">
 </p>
 
 </div>
@@ -23,13 +26,20 @@
 
 ## 🚀 About me
 
-I design data platforms that transform raw events into reliable, observable, and analytics-ready datasets.
+I design cloud data platforms and ML pipelines that transform raw events into reliable, observable, and production-ready insights.
 
-- 🎓 Software development student based in Tunisia
-- 🧱 Building projects around **CDC, streaming, lakehouse architecture, and cloud data platforms**
-- 🔄 Interested in **replayable pipelines, schema evolution, idempotent processing, and data quality**
-- 📊 Comfortable thinking across ingestion, transformation, storage, serving, and observability
-- 🤝 Open to **data engineering internships, junior roles, and client projects**
+- 📍 Based in **Italy**
+- 🧱 3+ years focused on **Cloud Data, ETL/ELT, streaming, lakehouse architecture, MLOps and AI**
+- 🔄 Building reliable pipelines with **AWS, Databricks, Apache Spark, Kafka, Airflow, Python and SQL**
+- 🧠 Interested in **feature engineering, model lifecycle, data quality, observability and responsible AI**
+- 🤝 Open to **Data Engineering, Cloud Data, MLOps and AI opportunities**
+
+## 🎓 Education
+
+| Institution | Program | Period |
+|---|---|---|
+| [Università degli Studi di Urbino Carlo Bo](https://www.uniurb.it/) | Engineering Degree — Artificial Intelligence | September 2025 – Present |
+| [Universidad Complutense de Madrid](https://www.ucm.es/) | Engineering Degree — Artificial Intelligence | September 2026 – June 2027 |
 
 ## ⭐ Featured data, ML & cloud projects
 
@@ -85,15 +95,11 @@ Anomaly-detection platform using truncated/randomized SVD, residual scoring, EWM
 
 Computer-vision and speech project combining gesture recognition, voice commands, facial-expression analysis, and multimodal decision rules with OpenCV and Python.
 
-### [DriveWise AI Rental](https://github.com/BRIKIAchraf/drivewise-ai-rental)
-
-A modern React and TypeScript application built with Vite, Tailwind CSS, shadcn/ui, and Supabase.
-
 ## 🧰 Technology stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,postgres,kafka,docker,aws,terraform,git,linux" alt="Python PostgreSQL Kafka Docker AWS Terraform Git Linux" />
+<img src="https://skillicons.dev/icons?i=python,postgres,kafka,spark,databricks,docker,aws,terraform,git,linux" alt="Python PostgreSQL Kafka Spark Databricks Docker AWS Terraform Git Linux" />
 
 </div>
 
@@ -108,6 +114,8 @@ A modern React and TypeScript application built with Vite, Tailwind CSS, shadcn/
   <img src="https://img.shields.io/badge/Apache%20Iceberg-2D6CDF?style=flat-square&logo=apache&logoColor=white" alt="Apache Iceberg">
   <img src="https://img.shields.io/badge/Trino-DD00A1?style=flat-square&logo=trino&logoColor=white" alt="Trino">
   <img src="https://img.shields.io/badge/Apache%20Avro-FFCC00?style=flat-square&logo=apache&logoColor=111827" alt="Apache Avro">
+  <img src="https://img.shields.io/badge/Delta%20Lake-00ADD8?style=flat-square&logo=delta&logoColor=white" alt="Delta Lake">
+  <img src="https://img.shields.io/badge/Databricks-EA2B1F?style=flat-square&logo=databricks&logoColor=white" alt="Databricks">
 </p>
 
 ### ☁️ Cloud, orchestration & observability
@@ -121,16 +129,19 @@ A modern React and TypeScript application built with Vite, Tailwind CSS, shadcn/
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus">
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana">
   <img src="https://img.shields.io/badge/OpenLineage-1B1B1B?style=flat-square&logo=apache&logoColor=white" alt="OpenLineage">
+  <img src="https://img.shields.io/badge/DataHub-4B32C3?style=flat-square&logo=datahub&logoColor=white" alt="DataHub">
+  <img src="https://img.shields.io/badge/Great%20Expectations-1A73E8?style=flat-square&logo=great-expectations&logoColor=white" alt="Great Expectations">
 </p>
 
 ### 🤖 ML, computer vision & applications
 
 <p>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/Feast-5B21B6?style=flat-square&logo=feast&logoColor=white" alt="Feast">
+  <img src="https://img.shields.io/badge/Evidently%20AI-111827?style=flat-square&logoColor=white" alt="Evidently AI">
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
 </p>
 
@@ -145,7 +156,7 @@ A modern React and TypeScript application built with Vite, Tailwind CSS, shadcn/
 
 - 🌍 [achrafbriki.com](https://achrafbriki.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/achrafbriki/)
-- 📧 [brekiashraf@gmail.com](mailto:brekiashraf@gmail.com)
+- 📧 [a.briki@campus.uniurb.it](mailto:a.briki@campus.uniurb.it)
 
 ---
 
